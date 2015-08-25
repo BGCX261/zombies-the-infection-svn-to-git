@@ -1,0 +1,13 @@
+#labels First,Update,Created,zombies,guns,garrysmod
+We finally have some stuff up for this gamemode.
+This started last month, and it is finally complete.
+Half of the HUD/GUI, 3 weapons, half of one of our maps.
+Along with the code for inventory (hud/gui not done), code for picking up items (hud/gui/button not done), and finally the spawn shop is almost done (gui/hud and map area).
+
+Complete parts of map:
+The Safe Haven (Run by Quarantine)
+Forest (Owned by Server;Empty Void)
+The Neighborhood (Owned by Server;Empty Void)
+
+Thats all we have completed. (Melee Weapons are in next updates)
+Animations are next aswell, and the rest of the map is next.
